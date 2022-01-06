@@ -1,5 +1,9 @@
 # ElixirJsonRestfullApi
 
+This code was stolen from here:
+https://helabenkhalfallah.medium.com/elixir-json-restful-api-without-phoenix-df2eed644659
+
+
 **TODO: Add description**
 
 ## Installation
